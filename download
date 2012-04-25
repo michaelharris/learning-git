@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <!-- query time: 0.0067 sec -->
+    <variable name="g"/>
+    <variable name="s"/>
+    <variable name="p"/>
+    <variable name="o"/>
+  </head>
+  <results>
+    <result>
+      <binding name="g">
+        <uri>http://id.southampton.ac.uk/dataset/events-diary/latest</uri>
+      </binding>
+      <binding name="s">
+        <uri>http://data.southampton.ac.uk/dumps/events-diary/2012-03-05/events-diary.rdf#provenance</uri>
+      </binding>
+      <binding name="p">
+        <uri>http://purl.org/void/provenance/ns/processType</uri>
+      </binding>
+      <binding name="o">
+        <uri>http://id.southampton.ac.uk/ns/ConvertTurtleToRDFXML</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="g">
+        <uri>http://id.southampton.ac.uk/dataset/events-diary/latest</uri>
+      </binding>
+      <binding name="s">
+        <uri>http://data.southampton.ac.uk/dumps/events-diary/2012-03-05/events-diary.rdf#provenance</uri>
+      </binding>
+      <binding name="p">
+        <uri>http://purl.org/void/provenance/ns/resultingDataset</uri>
+      </binding>
+      <binding name="o">
+        <uri>http://data.southampton.ac.uk/dumps/events-diary/2012-03-05/events-diary.rdf</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="g">
+        <uri>http://id.southampton.ac.uk/dataset/events-diary/latest</uri>
+      </binding>
+      <binding name="s">
+        <uri>http://data.southampton.ac.uk/dumps/events-diary/2012-03-05/events-diary.rdf#provenance</uri>
+      </binding>
+      <binding name="p">
+        <uri>http://purl.org/void/provenance/ns/sourceDataset</uri>
+      </binding>
+      <binding name="o">
+        <uri>http://data.southampton.ac.uk/dumps/events-diary/2012-03-05/events-diary.ttl</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="g">
+        <uri>http://id.southampton.ac.uk/dataset/events-diary/latest</uri>
+      </binding>
+      <binding name="s">
+        <uri>http://data.southampton.ac.uk/dumps/events-diary/2012-03-05/events-diary.rdf#provenance</uri>
+      </binding>
+      <binding name="p">
+        <uri>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</uri>
+      </binding>
+      <binding name="o">
+        <uri>http://purl.org/void/provenance/ns/ProvenanceEvent</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="g">
+        <uri>http://id.southampton.ac.uk/dataset/events-diary/latest</uri>
+      </binding>
+      <binding name="s">
+        <uri>http://data.southampton.ac.uk/dumps/events-diary/2012-03-05/events-diary.ttl</uri>
+      </binding>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/conformsTo</uri>
+      </binding>
+      <binding name="o">
+        <uri>http://purl.org/openorg/opendata-5-star</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="g">
+        <uri>http://id.southampton.ac.uk/dataset/events-diary/latest</uri>
+      </binding>
+      <binding name="s">
+        <uri>http://data.southampton.ac.uk/dumps/events-diary/2012-03-05/events-diary.ttl</uri>
+      </binding>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/created</uri>
+      </binding>
+      <binding name="o">
+        <literal>2012-03-05</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="g">
+        <uri>http://id.southampton.ac.uk/dataset/events-diary/latest</uri>
+      </binding>
+      <binding name="s">
+        <uri>http://data.southampton.ac.uk/dumps/events-diary/2012-03-05/events-diary.ttl</uri>
+      </binding>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/description</uri>
+      </binding>
+      <binding name="o">
+        <literal>This data is aggregated hourly from websites and data sources all around the University of Southampton.</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="g">
+        <uri>http://id.southampton.ac.uk/dataset/events-diary/latest</uri>
+      </binding>
+      <binding name="s">
+        <uri>http://data.southampton.ac.uk/dumps/events-diary/2012-03-05/events-diary.ttl</uri>
+      </binding>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/isPartOf</uri>
+      </binding>
+      <binding name="o">
+        <uri>http://id.southampton.ac.uk/dataset/events-diary</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="g">
+        <uri>http://id.southampton.ac.uk/dataset/events-diary/latest</uri>
+      </binding>
+      <binding name="s">
+        <uri>http://data.southampton.ac.uk/dumps/events-diary/2012-03-05/events-diary.ttl</uri>
+      </binding>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/publisher</uri>
+      </binding>
+      <binding name="o">
+        <uri>http://id.southampton.ac.uk/</uri>
+      </binding>
+    </result>
+    <result>
+      <binding name="g">
+        <uri>http://id.southampton.ac.uk/dataset/events-diary/latest</uri>
+      </binding>
+      <binding name="s">
+        <uri>http://data.southampton.ac.uk/dumps/events-diary/2012-03-05/events-diary.ttl</uri>
+      </binding>
+      <binding name="p">
+        <uri>http://purl.org/dc/terms/title</uri>
+      </binding>
+      <binding name="o">
+        <literal>Events Diary</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>
